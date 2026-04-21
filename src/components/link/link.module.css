@@ -1,0 +1,10 @@
+.link {
+    text-decoration: underline;
+    color: gray;
+    transition: color 0.2s ease;
+}
+
+.link:hover,
+.link:focus {
+    color: orange;
+}

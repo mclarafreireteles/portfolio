@@ -1,0 +1,11 @@
+.section {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.title {
+    font-size: 22px;
+    font-family: 'Gelasio', sans-serif;
+    margin-bottom: 8px;
+}
